@@ -1,0 +1,59 @@
+.mes_single {
+    padding: 5px;
+    /* background: black; */
+    border-radius: 4px;
+}
+
+.mes_single span {
+    font-weight: bold;
+}
+
+#feedback {
+    max-height: 600px;
+    height: 400px;
+    overflow: scroll;
+    border: 2px solid black;
+    padding: 5px 20px;
+}
+
+#feedback h5 {
+    margin-bottom: 5px;
+}
+
+.color{
+    background-color: grey;
+}
+
+#c1{
+    background-color: blue;
+}
+
+#c2{
+    background-color: red;
+}
+#c3{
+    background-color: purple;
+}
+#c4{
+    background-color: green;
+}
+#c5{
+    background-color: skyblue;
+}
+#c6{
+    background-color: coral;
+}
+
+#online{
+    position: absolute;
+    margin: 20px;
+    max-height: 200px;
+    height: 400px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+.onl{
+    display: flex;
+    justify-content: center;
+}
